@@ -24,7 +24,7 @@ time.sleep(0)
 
 
 print("\033[0;34m")
-print("♡WELCOME TO MY WEBSITE CRASHER♡")
+print("♡ WELCOME TO MY WEBSITE CRASHER♡")
 time.sleep(0)
 
 
