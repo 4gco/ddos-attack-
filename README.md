@@ -6,7 +6,10 @@ HOW TO USE:
 
 Install the requirements below:
 
-import socketimport osimport timeimport sys
+import socket
+import os
+import time
+import sys
 
 THIS WILL NOT WORK IF REQUIREMENTS ARE NOT INSTALLED
 
